@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dongalasirisha
 - 👀 I’m interested in create web applications.
 - 🌱 I’m currently learning 4.O Technologies.
-- 💞️ I’m looking to collaborate on any sort of frontend based projects.
+- 💞️ I’m looking to collaborate on any sort of frontend and python based projects.
 - 📫 How to reach me @linkedin : https://www.linkedin.com/in/sirisha-dongala/
                       @Gmail: sirishadongala987@gmail.com
 
