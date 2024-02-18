@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Dongalasirisha
 - 👀 I’m interested in create web applications.
 - 🌱 I’m currently learning 4.O Technologies.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any sort of frontend based projects.
 - 📫 How to reach me @linkedin : https://www.linkedin.com/in/sirisha-dongala/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+                      @Gmail: sirishadongala987@gmail.com
 
 <!---
 Dongalasirisha/Dongalasirisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
